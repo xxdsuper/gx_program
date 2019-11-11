@@ -6,6 +6,7 @@ ipch
 *.opensdf
 *.orig
 
+/PersonalProgram/.vs
 
 /PersonalProgram/Debug
 /PersonalProgram/Release
